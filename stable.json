@@ -1,8 +1,8 @@
 {
-  "versionCode": 8,
-  "versionName": "3.0.0",
-  "apkUrl": "https://raw.githubusercontent.com/Maxofmax20/clean-remote-updates/main/apks/Clean-Remote-3.0.0.apk",
-  "sha256": "5f9d87e0c1c04be7d0a6aace8796490954140c8579c7a9e8508092f22a90861b",
+  "versionCode": 9,
+  "versionName": "3.0.1",
+  "apkUrl": "https://raw.githubusercontent.com/Maxofmax20/clean-remote-updates/main/apks/Clean-Remote-3.0.1.apk",
+  "sha256": "1a1778824068104f91fd08da75690058a9cb7535519e106835db84ed496736c5",
   "sizeBytes": 1092156,
-  "notes": "Official web-based UI redesign with offline remote, apps, inputs, keyboard, touchpad and updated navigation."
+  "notes": "App icon display fix, compressed TV icons and improved WebView state refresh; crash root cause still under investigation."
 }
