@@ -1,8 +1,8 @@
 {
-  "versionCode": 5,
-  "versionName": "2.3.0",
-  "apkUrl": "https://raw.githubusercontent.com/Maxofmax20/clean-remote-updates/main/apks/Clean-Remote-2.3.0.apk",
-  "sha256": "08be391ab1a8e7c734184583f8222f560f058dc568f04619dc973d8c2e56125a",
+  "versionCode": 6,
+  "versionName": "2.4.0",
+  "apkUrl": "https://raw.githubusercontent.com/Maxofmax20/clean-remote-updates/main/apks/Clean-Remote-2.4.0.apk",
+  "sha256": "247da49996b763617839b9a3d7423688c6adfe61a37fa2ab82107178263f6dff",
   "sizeBytes": 1079677,
-  "notes": "Reference-inspired dark navy and mint visual redesign, compact TV header, highlighted inputs, refined controls and settings."
+  "notes": "Compact layout matching UI reference more closely; fixed clipped media controls and oversized remote, inputs, apps and settings."
 }
