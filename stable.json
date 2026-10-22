@@ -1,8 +1,8 @@
 {
-  "versionCode": 10,
-  "versionName": "3.1.0",
-  "apkUrl": "https://raw.githubusercontent.com/Maxofmax20/clean-remote-updates/main/apks/Clean-Remote-3.1.0.apk",
-  "sha256": "11780cba9cec17686921e66b39a7886f0f5d8355a104de8e2221b6aec5a6b8a0",
+  "versionCode": 11,
+  "versionName": "3.1.1",
+  "apkUrl": "https://raw.githubusercontent.com/Maxofmax20/clean-remote-updates/main/apks/Clean-Remote-3.1.1.apk",
+  "sha256": "7a7e1da52967a364d77aa85d3a506363dd8bda5641724361faa56676e04b0f9f",
   "sizeBytes": 1096382,
-  "notes": "Complete scalable SVG icon redesign across remote, apps, inputs, settings and launcher; refined styling and native TV icon support."
+  "notes": "Fixes oversized bottom navigation labels, tightens mobile layout and improves LG app icon delivery."
 }
