@@ -1,0 +1,8 @@
+{
+  "versionCode": 2,
+  "versionName": "2.0.0",
+  "apkUrl": "https://raw.githubusercontent.com/Maxofmax20/clean-remote-updates/main/apks/Clean-Remote-2.0.0.apk",
+  "sha256": "29ff81344f3b9a1a4bcfdc144993c82a4030d2c13d4cb7a6e499d5e01cc77013",
+  "sizeBytes": 1058245,
+  "notes": "Native remote redesign, searchable apps, better input cards, secure in-app updater"
+}
