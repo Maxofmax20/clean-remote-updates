@@ -1,8 +1,8 @@
 {
-  "versionCode": 9,
-  "versionName": "3.0.1",
-  "apkUrl": "https://raw.githubusercontent.com/Maxofmax20/clean-remote-updates/main/apks/Clean-Remote-3.0.1.apk",
-  "sha256": "1a1778824068104f91fd08da75690058a9cb7535519e106835db84ed496736c5",
-  "sizeBytes": 1092156,
-  "notes": "App icon display fix, compressed TV icons and improved WebView state refresh; crash root cause still under investigation."
+  "versionCode": 10,
+  "versionName": "3.1.0",
+  "apkUrl": "https://raw.githubusercontent.com/Maxofmax20/clean-remote-updates/main/apks/Clean-Remote-3.1.0.apk",
+  "sha256": "11780cba9cec17686921e66b39a7886f0f5d8355a104de8e2221b6aec5a6b8a0",
+  "sizeBytes": 1096382,
+  "notes": "Complete scalable SVG icon redesign across remote, apps, inputs, settings and launcher; refined styling and native TV icon support."
 }
