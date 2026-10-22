@@ -1,8 +1,8 @@
 {
-  "versionCode": 14,
-  "versionName": "3.3.0",
-  "apkUrl": "https://raw.githubusercontent.com/Maxofmax20/clean-remote-updates/main/apks/Clean-Remote-3.3.0.apk",
-  "sha256": "e9658cce123d8eb0b5f5b25fbcdd398dbf012490023385d8b35724d1ee9d1292",
+  "versionCode": 15,
+  "versionName": "3.3.1",
+  "apkUrl": "https://raw.githubusercontent.com/Maxofmax20/clean-remote-updates/main/apks/Clean-Remote-3.3.1.apk",
+  "sha256": "9d478dd5c46ae6a36aa41142df7372d9d76059f44655647ea3d196f682d2c634",
   "sizeBytes": 1116934,
-  "notes": "Automatic TV MAC lookup where webOS permits, per-TV MAC storage, system light/dark mode and Android 12+ wallpaper colors."
+  "notes": "Fixes stray text and conflicting wallpaper theme colors, displays readable running-app names, disables unconfigured wake button, and clarifies LG 401 restrictions."
 }
