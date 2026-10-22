@@ -1,8 +1,8 @@
 {
-  "versionCode": 6,
-  "versionName": "2.4.0",
-  "apkUrl": "https://raw.githubusercontent.com/Maxofmax20/clean-remote-updates/main/apks/Clean-Remote-2.4.0.apk",
-  "sha256": "247da49996b763617839b9a3d7423688c6adfe61a37fa2ab82107178263f6dff",
-  "sizeBytes": 1079677,
-  "notes": "Compact layout matching UI reference more closely; fixed clipped media controls and oversized remote, inputs, apps and settings."
+  "versionCode": 8,
+  "versionName": "3.0.0",
+  "apkUrl": "https://raw.githubusercontent.com/Maxofmax20/clean-remote-updates/main/apks/Clean-Remote-3.0.0.apk",
+  "sha256": "5f9d87e0c1c04be7d0a6aace8796490954140c8579c7a9e8508092f22a90861b",
+  "sizeBytes": 1092156,
+  "notes": "Official web-based UI redesign with offline remote, apps, inputs, keyboard, touchpad and updated navigation."
 }
