@@ -1,8 +1,8 @@
 {
-  "versionCode": 13,
-  "versionName": "3.2.1",
-  "apkUrl": "https://raw.githubusercontent.com/Maxofmax20/clean-remote-updates/main/apks/Clean-Remote-3.2.1.apk",
-  "sha256": "e2830d2977f90d64bf3ad504130f49000648dfcb173cef95cf352b7c7b7fb3a2",
-  "sizeBytes": 1108670,
-  "notes": "LG TV permission update, accurate firmware information and clearer advanced feature 401 errors. Re-pair with user approval for optional scopes."
+  "versionCode": 14,
+  "versionName": "3.3.0",
+  "apkUrl": "https://raw.githubusercontent.com/Maxofmax20/clean-remote-updates/main/apks/Clean-Remote-3.3.0.apk",
+  "sha256": "e9658cce123d8eb0b5f5b25fbcdd398dbf012490023385d8b35724d1ee9d1292",
+  "sizeBytes": 1116934,
+  "notes": "Automatic TV MAC lookup where webOS permits, per-TV MAC storage, system light/dark mode and Android 12+ wallpaper colors."
 }
