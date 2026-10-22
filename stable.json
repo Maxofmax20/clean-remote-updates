@@ -1,8 +1,8 @@
 {
-  "versionCode": 15,
-  "versionName": "3.3.1",
-  "apkUrl": "https://raw.githubusercontent.com/Maxofmax20/clean-remote-updates/main/apks/Clean-Remote-3.3.1.apk",
-  "sha256": "9d478dd5c46ae6a36aa41142df7372d9d76059f44655647ea3d196f682d2c634",
-  "sizeBytes": 1116934,
-  "notes": "Fixes stray text and conflicting wallpaper theme colors, displays readable running-app names, disables unconfigured wake button, and clarifies LG 401 restrictions."
+  "versionCode": 16,
+  "versionName": "3.4.0",
+  "apkUrl": "https://raw.githubusercontent.com/Maxofmax20/clean-remote-updates/main/apks/Clean-Remote-3.4.0.apk",
+  "sha256": "5b7da92c9334847b3d223bc68488e3372325ab899af46a22cde134d182653728",
+  "sizeBytes": 1121030,
+  "notes": "Stability release: reduces WebView remounts, bounds TV app icon queues, improves Android lifecycle cleanup and adds private crash diagnostics."
 }
