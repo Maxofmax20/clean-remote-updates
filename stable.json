@@ -1,8 +1,8 @@
 {
-  "versionCode": 16,
-  "versionName": "3.4.0",
-  "apkUrl": "https://raw.githubusercontent.com/Maxofmax20/clean-remote-updates/main/apks/Clean-Remote-3.4.0.apk",
-  "sha256": "5b7da92c9334847b3d223bc68488e3372325ab899af46a22cde134d182653728",
+  "versionCode": 17,
+  "versionName": "3.4.1",
+  "apkUrl": "https://raw.githubusercontent.com/Maxofmax20/clean-remote-updates/main/apks/Clean-Remote-3.4.1.apk",
+  "sha256": "5efc854e38cde4f2f026238b505216e800a64dbc6d314dca3e510b4379488a93",
   "sizeBytes": 1121030,
-  "notes": "Stability release: reduces WebView remounts, bounds TV app icon queues, improves Android lifecycle cleanup and adds private crash diagnostics."
+  "notes": "Crash mitigation for TvClient.disconnect, editable TV MAC address input with Save and Clear, retaining status and pairing."
 }
