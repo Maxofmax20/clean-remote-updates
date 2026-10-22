@@ -1,8 +1,8 @@
 {
-  "versionCode": 3,
-  "versionName": "2.1.0",
-  "apkUrl": "https://raw.githubusercontent.com/Maxofmax20/clean-remote-updates/main/apks/Clean-Remote-2.1.0.apk",
-  "sha256": "24f0f9f5afac1b5b3418878420a6b0b1b06b5c04d638b80f2a2e34ed0eabb4cc",
-  "sizeBytes": 1075581,
-  "notes": "Phone keyboard, swipe touchpad, TV app icons, improved vector icons, automatic TV discovery"
+  "versionCode": 4,
+  "versionName": "2.2.0",
+  "apkUrl": "https://raw.githubusercontent.com/Maxofmax20/clean-remote-updates/main/apks/Clean-Remote-2.2.0.apk",
+  "sha256": "60baef42cb6af216c3c53a585d830e112367435334be09b1c631452c7d9dc6d8",
+  "sizeBytes": 1079677,
+  "notes": "Keyboard permission request and guided re-pair, improved in-app keyboard screen and UI spacing"
 }
