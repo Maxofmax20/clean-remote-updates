@@ -1,8 +1,8 @@
 {
-  "versionCode": 21,
-  "versionName": "3.4.5",
-  "apkUrl": "https://raw.githubusercontent.com/Maxofmax20/clean-remote-updates/main/apks/Clean-Remote-3.4.5.apk",
-  "sha256": "1e1607536dec42258a506eeaebdb2f4b9d08536f797681128ed183be7b3f0cfd",
-  "sizeBytes": 1125126,
-  "notes": "Preserves the latest3.4.4 per-TV icon editor, corrected control icons, icon refresh, phone themes and crash/MAC fixes. Restores reviewed Cinema episode links in the current interface. No separate-player casting is included."
+  "versionCode": 22,
+  "versionName": "3.5.0",
+  "apkUrl": "https://raw.githubusercontent.com/Maxofmax20/clean-remote-updates/main/apks/Clean-Remote-3.5.0.apk",
+  "sha256": "212650411310556c93e2ce5645a452dfbb35e91508653f947807a861e92b2f18",
+  "sizeBytes": 1133318,
+  "notes": "Hold D-pad arrows and volume up/down to repeat, release to stop; new AI assistant WSS connection panel for the private MCP gateway. No loss of TV pairing, favorites, MAC or icons."
 }
