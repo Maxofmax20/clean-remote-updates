@@ -1,8 +1,8 @@
 {
-  "versionCode": 17,
-  "versionName": "3.4.1",
-  "apkUrl": "https://raw.githubusercontent.com/Maxofmax20/clean-remote-updates/main/apks/Clean-Remote-3.4.1.apk",
-  "sha256": "5efc854e38cde4f2f026238b505216e800a64dbc6d314dca3e510b4379488a93",
+  "versionCode": 19,
+  "versionName": "3.4.3",
+  "apkUrl": "https://raw.githubusercontent.com/Maxofmax20/clean-remote-updates/main/apks/Clean-Remote-3.4.3.apk",
+  "sha256": "bd4fd1192f89b88fe02018a3840cabfb19907632251bbd8ac2d6cb882c4f171e",
   "sizeBytes": 1121030,
-  "notes": "Crash mitigation for TvClient.disconnect, editable TV MAC address input with Save and Clear, retaining status and pairing."
+  "notes": "Fresh TV app artwork: bypass old Android/WebView icon caches when opening Apps or tapping Refresh apps & icons. Existing controls, MAC wake and pairing are preserved."
 }
