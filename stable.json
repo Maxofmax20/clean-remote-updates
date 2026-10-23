@@ -1,8 +1,8 @@
 {
-  "versionCode": 22,
-  "versionName": "3.5.0",
-  "apkUrl": "https://raw.githubusercontent.com/Maxofmax20/clean-remote-updates/main/apks/Clean-Remote-3.5.0.apk",
-  "sha256": "212650411310556c93e2ce5645a452dfbb35e91508653f947807a861e92b2f18",
-  "sizeBytes": 1133318,
-  "notes": "Hold D-pad arrows and volume up/down to repeat, release to stop; new AI assistant WSS connection panel for the private MCP gateway. No loss of TV pairing, favorites, MAC or icons."
+  "versionCode": 23,
+  "versionName": "3.5.1",
+  "apkUrl": "https://raw.githubusercontent.com/Maxofmax20/clean-remote-updates/main/apks/Clean-Remote-3.5.1.apk",
+  "sha256": "6f1b74e3e022a37d7c1149e843b467c2f1e7470b8c36bbbe3359c6b7a2846afc",
+  "sizeBytes": 1141510,
+  "notes": "Opt-in foreground TV assistant service, background VPS connection with ongoing notification and Stop action. Keeps TV pairing and all controls."
 }
