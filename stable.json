@@ -1,8 +1,8 @@
 {
-  "versionCode": 20,
-  "versionName": "3.4.4",
-  "apkUrl": "https://raw.githubusercontent.com/Maxofmax20/clean-remote-updates/main/apks/Clean-Remote-3.4.4.apk",
-  "sha256": "b69aad24008928effbacfbc26e8173fd4710af6ddcacf88f783c77c9263cd54b",
+  "versionCode": 21,
+  "versionName": "3.4.5",
+  "apkUrl": "https://raw.githubusercontent.com/Maxofmax20/clean-remote-updates/main/apks/Clean-Remote-3.4.5.apk",
+  "sha256": "1e1607536dec42258a506eeaebdb2f4b9d08536f797681128ed183be7b3f0cfd",
   "sizeBytes": 1125126,
-  "notes": "Fix 14 control icon SVGs and add Edit icon/Restore in Apps. Custom icons are saved privately per TV and app and override stale LG-provided icons."
+  "notes": "Preserves the latest3.4.4 per-TV icon editor, corrected control icons, icon refresh, phone themes and crash/MAC fixes. Restores reviewed Cinema episode links in the current interface. No separate-player casting is included."
 }
