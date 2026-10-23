@@ -1,8 +1,8 @@
 {
-  "versionCode": 19,
-  "versionName": "3.4.3",
-  "apkUrl": "https://raw.githubusercontent.com/Maxofmax20/clean-remote-updates/main/apks/Clean-Remote-3.4.3.apk",
-  "sha256": "bd4fd1192f89b88fe02018a3840cabfb19907632251bbd8ac2d6cb882c4f171e",
-  "sizeBytes": 1121030,
-  "notes": "Fresh TV app artwork: bypass old Android/WebView icon caches when opening Apps or tapping Refresh apps & icons. Existing controls, MAC wake and pairing are preserved."
+  "versionCode": 20,
+  "versionName": "3.4.4",
+  "apkUrl": "https://raw.githubusercontent.com/Maxofmax20/clean-remote-updates/main/apks/Clean-Remote-3.4.4.apk",
+  "sha256": "b69aad24008928effbacfbc26e8173fd4710af6ddcacf88f783c77c9263cd54b",
+  "sizeBytes": 1125126,
+  "notes": "Fix 14 control icon SVGs and add Edit icon/Restore in Apps. Custom icons are saved privately per TV and app and override stale LG-provided icons."
 }
