@@ -1,8 +1,8 @@
 {
-  "versionCode": 23,
-  "versionName": "3.5.1",
-  "apkUrl": "https://raw.githubusercontent.com/Maxofmax20/clean-remote-updates/main/apks/Clean-Remote-3.5.1.apk",
-  "sha256": "6f1b74e3e022a37d7c1149e843b467c2f1e7470b8c36bbbe3359c6b7a2846afc",
+  "versionCode": 24,
+  "versionName": "3.5.2",
+  "apkUrl": "https://raw.githubusercontent.com/Maxofmax20/clean-remote-updates/main/apks/Clean-Remote-3.5.2.apk",
+  "sha256": "dce8b11fd62a26905f9d9295ab1099b473a3c7702fe9371fd4af1d60aafaf1e0",
   "sizeBytes": 1141510,
-  "notes": "Opt-in foreground TV assistant service, background VPS connection with ongoing notification and Stop action. Keeps TV pairing and all controls."
+  "notes": "Fix Google Home OAuth authorization form expiry and add one-tap Add to Google Home in Settings. Preserves TV pairing and ongoing assistant service."
 }
