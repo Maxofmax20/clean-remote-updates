@@ -1,8 +1,8 @@
 {
-  "versionCode": 24,
-  "versionName": "3.5.2",
-  "apkUrl": "https://raw.githubusercontent.com/Maxofmax20/clean-remote-updates/main/apks/Clean-Remote-3.5.2.apk",
-  "sha256": "dce8b11fd62a26905f9d9295ab1099b473a3c7702fe9371fd4af1d60aafaf1e0",
-  "sizeBytes": 1141510,
-  "notes": "Fix Google Home OAuth authorization form expiry and add one-tap Add to Google Home in Settings. Preserves TV pairing and ongoing assistant service."
+  "versionCode": 25,
+  "versionName": "3.5.3",
+  "apkUrl": "https://raw.githubusercontent.com/Maxofmax20/clean-remote-updates/main/apks/Clean-Remote-3.5.3.apk",
+  "sha256": "33801c43a6456755140af6997ac6d0b2855e825335a655a6bd589c1996d04693",
+  "sizeBytes": 1145606,
+  "notes": "Official Google App Flip with verified Google caller and explicit consent, secure web fallback, separate connection states and Clean Remote Cloud. Preserves pairing and data; home agent must be online."
 }
