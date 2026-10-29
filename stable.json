@@ -1,8 +1,8 @@
 {
-  "versionCode": 26,
-  "versionName": "3.5.4",
-  "apkUrl": "https://raw.githubusercontent.com/Maxofmax20/clean-remote-updates/main/apks/Clean-Remote-3.5.4.apk",
-  "sha256": "150b7e0c67df76ce729beb0d6c474ce23a4b69c7c597f6b9b5dc3bfc89ce1962",
+  "versionCode": 27,
+  "versionName": "3.5.5",
+  "apkUrl": "https://raw.githubusercontent.com/Maxofmax20/clean-remote-updates/main/apks/Clean-Remote-3.5.5.apk",
+  "sha256": "94764c5653563777b560fc3ca4d841da13a0e4bc76f08bb15bf3ac6baf618009",
   "sizeBytes": 1145606,
-  "notes": "Fix Google Home native account linking verification for original and rotated Google Home certificates. Preserves pairing and settings. Phone verification of completed linking is still required."
+  "notes": "Fix automatic LG TV detection after a Wi-Fi/DHCP IP address change, securely reconnect using the existing pairing certificate, and add Find TVs in Switch. Preserves existing settings and pairing. Physical TV validation is still required."
 }
