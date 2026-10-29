@@ -1,8 +1,8 @@
 {
-  "versionCode": 28,
-  "versionName": "3.5.6",
-  "apkUrl": "https://raw.githubusercontent.com/Maxofmax20/clean-remote-updates/main/apks/Clean-Remote-3.5.6.apk",
-  "sha256": "58db88570bb4561209f92d2a586b5f76278c974d3d0c1ed167b20ea5a3f8663f",
-  "sizeBytes": 1149702,
-  "notes": "Fix LG TV auto-detection when DHCP changes IP. Reuse saved TV approval by verified certificate on every connection method, including manual IP. Add enhanced SSDP and local Wi-Fi verified-device discovery. New or unrecognized TVs still require normal TV approval."
+  "versionCode": 29,
+  "versionName": "3.5.7",
+  "apkUrl": "https://raw.githubusercontent.com/Maxofmax20/clean-remote-updates/main/apks/Clean-Remote-3.5.7.apk",
+  "sha256": "717f63f4d164a797986d8e17926e5d3a0cb90bd376e5560ad4265a7385be3ab3",
+  "sizeBytes": 1153867,
+  "notes": "New polished TV connection menu matching the app theme, with illustrated Wi-Fi discovery and a fully integrated manual-IP form. Supports Android Back, keyboard, close and Cancel. Existing TV pairing and features preserved."
 }
