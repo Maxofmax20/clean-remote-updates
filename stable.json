@@ -1,8 +1,8 @@
 {
-  "versionCode": 29,
-  "versionName": "3.5.7",
-  "apkUrl": "https://raw.githubusercontent.com/Maxofmax20/clean-remote-updates/main/apks/Clean-Remote-3.5.7.apk",
-  "sha256": "717f63f4d164a797986d8e17926e5d3a0cb90bd376e5560ad4265a7385be3ab3",
-  "sizeBytes": 1153867,
-  "notes": "New polished TV connection menu matching the app theme, with illustrated Wi-Fi discovery and a fully integrated manual-IP form. Supports Android Back, keyboard, close and Cancel. Existing TV pairing and features preserved."
+  "versionCode": 30,
+  "versionName": "3.5.8",
+  "apkUrl": "https://raw.githubusercontent.com/Maxofmax20/clean-remote-updates/main/apks/Clean-Remote-3.5.8.apk",
+  "sha256": "60127c9f82dcbbd3eaf9ebf79324967f43b35196bbecaed63539ee5fa3c1bd3e",
+  "sizeBytes": 1996714,
+  "notes": "Material dialogs throughout the app, TV chooser and keypad as animated bottom sheets, slide/fade window transitions, Snackbars instead of toasts, and JavaScript-dialog handling with CSS transitions in the v3 web UI. Existing TV pairing and features preserved."
 }
